@@ -2,12 +2,12 @@
 title: "Data Engineering Foundations"
 ---
 
-### Modules
+🎓 **Level:** Beginner to Intermediate  
+⏳ **Duration:** 10 Weeks  
+
+### What You Will Learn
 - SQL
 - Python
 - Spark
-- Cloud basics
-
-### Ideal For
-- Beginners
-- Working professionals
+- Data Warehousing
+- Cloud Basics
