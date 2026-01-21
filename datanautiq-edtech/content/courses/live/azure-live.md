@@ -2,13 +2,13 @@
 title: "Azure Data Engineer – Live Batch"
 ---
 
-**Start Date:** 15 Feb  
-**Duration:** 8 Weeks  
-**Mode:** Live (Zoom)  
-**Timings:** Weekends  
+🗓 **Start Date:** 15 Feb  
+⏳ **Duration:** 8 Weeks  
+🕒 **Schedule:** Weekends  
+💻 **Mode:** Live (Zoom)
 
-### What You Will Learn
-- ADF
-- ADLS
+### Topics Covered
+- Azure Data Factory
+- ADLS Gen2
 - Databricks
-- Real projects
+- End-to-End Project
