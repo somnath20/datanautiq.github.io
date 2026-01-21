@@ -18,13 +18,10 @@ title: "Feedback"
   </p>
 
   <p>
-    <label>Feedback:<br>
+    <label>Message:<br>
       <textarea name="message" required></textarea>
     </label>
   </p>
 
-  <p>
-    <button type="submit">Submit</button>
-  </p>
+  <button type="submit">Submit</button>
 </form>
-
