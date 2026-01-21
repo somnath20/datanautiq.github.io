@@ -1,13 +1,12 @@
----
-title: "DataNautIQ"
----
+## Become a Job-Ready Data Engineer 🚀
 
-## Learn Data Engineering the Industry Way 🚀
+Instructor-led live training with real industry projects.
 
-Live instructor-led courses on:
-- Data Engineering
-- Azure
-- Databricks
-- Real-world projects
+### 🔴 Currently Running Live Courses
+👉 [View Live Courses](/courses/live/)
 
-👉 **Currently Running Courses Below**
+### 📚 Our Popular Courses
+👉 [View All Courses](/courses/)
+
+### 📝 Read Industry Blogs
+👉 [Read Blogs](/blogs/)
